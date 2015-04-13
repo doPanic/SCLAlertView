@@ -11,7 +11,7 @@
 #import "SCLAlertViewStyleKit.h"
 #import "UIImage+ImageEffects.h"
 #import "SCLMacros.h"
-@import AVFoundation;
+#import <AVFoundation/AVFoundation.h>
 
 #define KEYBOARD_HEIGHT 80
 #define PREDICTION_BAR_HEIGHT 40
